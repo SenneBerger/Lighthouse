@@ -1,0 +1,46 @@
+body, head {
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table, th, td {
+  text-align: left;
+  padding-right: 15px;
+  padding-bottom: 20px;
+}
+th, td {
+  padding: 10px;
+}
+
+code {
+  font-weight: bold;
+  background-color: #e6eaf2
+}
+body {
+  padding: 40px;
+}
+hr {
+  color: #f2f5f9;
+}
+tr:nth-child(odd){
+  background-color: #f2e8f1;
+
+}
+p {
+ font-weight: 100;
+}
+body {
+  width: 1200px;
+  margin: auto;
+}
+hr {
+  margin-bottom: 20px;
+}
